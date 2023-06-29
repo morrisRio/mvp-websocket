@@ -1,0 +1,16 @@
+{
+        "name": "mvp-websocket",
+        "version": "1.0.0",
+        "description": "websocket example",
+        "main": "serialport.js",
+        "type": "module",
+        "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "author": "",
+        "license": "ISC",
+        "dependencies": {
+                "serialport": "^11.0.0",
+                "ws": "^8.13.0"
+        }
+}
