@@ -4,24 +4,16 @@
     npm install
 ```
 
-Einfaches serialport-websocket Setup:
+#### Einfaches serialport-websocket Setup:
 
 ```bash
     node serialport.js
 ```
 
-Elaboriertes Setup mit auto-reconnect und portsuche (zuverlässiger in Ausstellung):
+#### Elaboriertes Setup mit auto-reconnect und portsuche (zuverlässiger in Ausstellung):
 
 ```bash
     node auto-serialport.js
-```
-
-- `index.html` mit live-server starten (bspw. Live-Server Plugin for VS-Code)
-
-### Build
-
-```bash
-    npm run build
 ```
 
 # Hardware Interaction (Hardware communication)
